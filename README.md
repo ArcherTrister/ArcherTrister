@@ -21,9 +21,7 @@
     <img height="270px" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" width="45%" />
   </center>
   <br/>
-    <!-- Joke 笑话 -->
-<div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
-  <br/>
+
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
@@ -35,11 +33,11 @@
 <img width="200%" src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/hr.gif" />
 
   <!-- GitHub Star link -->
-<h2 align="center">⚡&emsp;&emsp;⚡</h2>
-<p align="center">
+<!-- <h2 align="center">⚡&emsp;&emsp;⚡</h2> -->
+<h2 align="center">
   <a href="https://stars.github.com/profiles/ArcherTrister/">
     <img src="./assets/images/295005152-ca15be3f-d00b-438e-91f6-fb5568c1f632.png" alt="GitHub Star 2024"/></a>
-</p>
+</h2>
 <br>
 <p align=center>
   <div align=center>
@@ -253,11 +251,16 @@ mindmap
 
 <!-- Github-Stats-Terminal 终端风格信息 -->
 
-<img src="https://cdn.jsdelivr.net/gh/ArcherTrister/Github-Stats-Terminal/github_stats.svg"/><br>
+<!-- <img src="https://cdn.jsdelivr.net/gh/ArcherTrister/Github-Stats-Terminal/github_stats.svg"/><br> -->
 
 <!-- Quotes 名人名言 -->
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
+
+<!-- Joke 笑话 -->
+
+<div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
+  <br/>
 
 <!-- Awesome repo 比较好的仓库-->
 <!-- <a href="https://github.com/ArcherTrister/Awesome-Love-Code">
