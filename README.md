@@ -42,15 +42,15 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/ArcherTrister" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=ArcherTrister&theme=react&border=61dafb&hide_border=true" alt="ArcherTrister" />
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=ArcherTrister&theme=radical&border=61dafb&hide_border=true" alt="ArcherTrister" />
     </a>
     <a href="https://github.com/ArcherTrister" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=ArcherTrister&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=ArcherTrister&show_icons=true&theme=radical&border_color=61dafb&hide_border=true" />
     </a>
   </div>
 
 <!-- # 🌱Social
-
+ theme： dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 <div align="center">
     <img height="150px" src="https://github-profile-trophy.vercel.app/?username=ArcherTrister&&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15"/>
 </div>
@@ -213,6 +213,8 @@
 </picture> -->
 
 ### 📊 WakaTime
+
+[![ArcherTrister's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ArcherTrister&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/hr.gif" />
