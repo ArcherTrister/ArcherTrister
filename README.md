@@ -76,14 +76,13 @@
 
 <!-- GitHub 数据统计 -->
 <!-- <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=ArcherTrister&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArcherTrister&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /> -->
-
-<br><br>
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArcherTrister&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /> <br><br>-->
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArcherTrister&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 <br>
   <!-- profile-3d-contrib 3D贡献图-->
-<img src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+<!-- <img src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+<br> -->
 </p>
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/hr.gif" />
