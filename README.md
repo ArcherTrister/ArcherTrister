@@ -317,11 +317,11 @@ mindmap
 <!-- &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/pig.gif" /> -->
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=ArcherTrister&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
   </tr>
-</table>
+</table> -->
 
 </div>
 
