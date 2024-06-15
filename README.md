@@ -43,7 +43,7 @@
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/ArcherTrister/github-readme-streak-stats" title="Go to Source">
+    <a href="https://github.com/ArcherTrister" title="Go to Source">
       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=ArcherTrister&theme=react&border=61dafb&hide_border=true" alt="ArcherTrister" />
     </a>
     <a href="https://github.com/ArcherTrister" title="Go to Source">
@@ -63,12 +63,22 @@
 
 <br><br><br><br><br><br><br><br><br>
 
+<!-- GitHub 奖杯🏆 -->
+
+<img  src="https://github-profile-trophy.vercel.app/?username=ArcherTrister&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
+
   <div align=center>
     <a href="https://github.com/ArcherTrister">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArcherTrister&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArcherTrister&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </a>
   </div>
   <br>
+
+<!-- GitHub 数据统计 -->
+<!-- <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=ArcherTrister&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArcherTrister&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /> -->
+
+<br><br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArcherTrister&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 <br>
@@ -249,14 +259,6 @@ mindmap
 <!-- Quotes 名人名言 -->
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
-
-<!-- GitHub 奖杯🏆 -->
-
-<img  src="https://github-profile-trophy.vercel.app/?username=ArcherTrister&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
-
-<!-- GitHub 数据统计 -->
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=ArcherTrister&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArcherTrister&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /><br><br>
 
 <!-- Awesome repo 比较好的仓库-->
 <!-- <a href="https://github.com/ArcherTrister/Awesome-Love-Code">
