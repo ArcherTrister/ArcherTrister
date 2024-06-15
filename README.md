@@ -18,7 +18,7 @@
   <center>
     <img height="270px" src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/coding.gif" width="45%" />
     &emsp;&emsp;
-    <img height="270px" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" width="45%" />
+    <img height="270px" src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/giphy.webp" width="45%" />
   </center>
   <br/>
 
@@ -36,7 +36,7 @@
 <!-- <h2 align="center">⚡&emsp;&emsp;⚡</h2> -->
 <h2 align="center">
   <a href="https://stars.github.com/profiles/ArcherTrister/">
-    <img src="./assets/images/295005152-ca15be3f-d00b-438e-91f6-fb5568c1f632.png" alt="GitHub Star 2024"/></a>
+    <img src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/295005152-ca15be3f-d00b-438e-91f6-fb5568c1f632.png" alt="GitHub Star 2024"/></a>
 </h2>
 <br>
 <p align=center>
