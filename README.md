@@ -1,4 +1,12 @@
 <div align="center"> 
+  <p>
+    <!-- profile logo 个人资料徽标 -->
+    <img align="left" src="https://komarev.com/ghpvc/?username=ArcherTrister&color=0e75b6&style=flat" alt="Profile Views Counter" />
+      <!-- visitor statistics logo 访客数统计徽标 -->
+    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ArcherTrister.ArcherTrister" alt="visitor badge" />
+  </p>
+  <br/>
+
   <!-- dynamic typing effect 动态打字效果 -->
   <!-- <a href="https://github.com/ArcherTrister">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小孙同学祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
@@ -6,18 +14,15 @@
   <a href="https://github.com/ArcherTrister/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;8%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
   <br/>
+
   <center>
     <img height="270px" src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/coding.gif" width="45%" />
     &emsp;&emsp;
     <img height="270px" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" width="45%" />
   </center>
   <br/>
-  <p>
-    <!-- profile logo 个人资料徽标 -->
-    <img align="left" src="https://komarev.com/ghpvc/?username=ArcherTrister&color=0e75b6&style=flat" alt="Profile Views Counter" />
-      <!-- visitor statistics logo 访客数统计徽标 -->
-    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ArcherTrister.ArcherTrister" alt="visitor badge" />
-  </p>
+    <!-- Joke 笑话 -->
+<div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
   <br/>
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
@@ -26,7 +31,9 @@
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
-<hr>
+
+<img width="200%" src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/hr.gif" />
+
   <!-- GitHub Star link -->
 <h2 align="center">⚡&emsp;&emsp;⚡</h2>
 <p align="center">
@@ -64,16 +71,18 @@
   <br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArcherTrister&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<br>
+  <!-- profile-3d-contrib 3D贡献图-->
+<img src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </p>
 
-<hr>
+<img width="200%" src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/hr.gif" />
+
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/icon.png" /></div>
 
-<!-- profile-3d-contrib 3D贡献图-->
-<img src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/profile-3d-contrib/profile-night-rainbow.svg" />
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
   <p>
@@ -177,9 +186,9 @@
 ![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)![Lenovo Badge](https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=fff&style=flat)![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
   </p>
-<hr>
+<img width="200%" src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/hr.gif" />
 
-# 🔭Actions
+<!-- # 🔭Actions
 
 <div align="center">
     <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=ArcherTrister"/>
@@ -191,7 +200,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArcherTrister/ArcherTrister/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArcherTrister/ArcherTrister/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
-</picture>
+</picture> -->
 
 ### 📊 WakaTime
 
@@ -207,10 +216,10 @@ mindmap
       Web开发
       网络爬虫
       人工智能
-    <!-- 摄影
+    摄影
       人文
       建筑
-      风景 -->
+      风景
     旅行
       成都
       桂林
@@ -225,9 +234,6 @@ mindmap
       心理
       计算机技术
 ```
-
-<!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
 
 </div>
 
@@ -253,13 +259,13 @@ mindmap
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArcherTrister&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /><br><br>
 
 <!-- Awesome repo 比较好的仓库-->
-<a href="https://github.com/ArcherTrister/Awesome-Love-Code">
+<!-- <a href="https://github.com/ArcherTrister/Awesome-Love-Code">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArcherTrister&repo=Awesome-Love-Code&theme=dark&bg_color=121212&hide_border=true" /></a>
 <a href="https://github.com/ArcherTrister/Student-Data-Vision">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ArcherTrister&repo=Student-Data-Vision&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
-  
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ArcherTrister&repo=Student-Data-Vision&theme=dark&bg_color=121212&hide_border=true" /></a><br><br> -->
+
 <!-- Wakatime Graph-->
-<table>
+<!-- <table>
   <tr>
     <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500" alt="Wakatime"/></td>
     <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500" alt="Wakatime"/></td>
@@ -267,7 +273,7 @@ mindmap
   <tr>
     <td colspan="2"><a href="https://run.sunguoqi.com"><img width="200%" src="https://cdn.jsdelivr.net/gh/ArcherTrister/running/assets/github_2023.svg" /></a><br></td>
   </tr>
-</table>
+</table> -->
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
@@ -275,17 +281,19 @@ mindmap
 
 <div align="center">
 
+<!-- just img 图片 -->
+<img src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
 <!-- run 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/man_run.png" alt="Man Running" width="250" height="250" />
 
 <!-- Joke 笑话 -->
-<div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
+<!-- <div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div> -->
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 
-<img width="150" src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/left.png" />&emsp;
+<!-- <img width="150" src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/left.png" />&emsp;
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArcherTrister&theme=dark&hide_border=true" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/right.png" />
+&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/right.png" /> -->
 
 <!-- Spotify 音乐 -->
 <!-- <img width="150" src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/shin_chan.gif" />&emsp;&emsp;&emsp;&emsp;
@@ -298,7 +306,7 @@ mindmap
 
 <!-- <img src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/github-metrics/base.svg" /> -->
 
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/cxyduck.gif" />
+<!-- &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/cxyduck.gif" /> -->
 
 <!-- My Blog 博客首页 -->
 
@@ -306,7 +314,7 @@ mindmap
 
 <!-- <a href="https://blog.sunguoqi.com"><img src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/github-metrics/pagespeed.screenshot.svg" /></a> -->
 
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/pig.gif" />
+<!-- &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/pig.gif" /> -->
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table align="center">
@@ -327,14 +335,14 @@ mindmap
 <img width="36%" src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/githubgif.gif" />
 
 <!-- first form 第一个表格 -->
-<table>
+<!-- <table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/github-metrics/people.followers.svg" alt="people.followers" /></td>
   </tr>
-</table>
+</table> -->
 
 <!-- second form 第二个表格 -->
-<table>
+<!-- <table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/github-metrics/reactions.svg" alt="reactions" /></td>
@@ -363,10 +371,10 @@ mindmap
     <td><img src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
   </tr>
-</table>
+</table> -->
 
-<img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
+<!-- <img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" /> -->
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/rocket.png"/>
+<!-- <img src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/rocket.png"/> -->
 </div>
