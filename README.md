@@ -67,7 +67,7 @@
 
   <div align=center>
     <a href="https://github.com/ArcherTrister">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArcherTrister&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArcherTrister&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </a>
   </div>
   <br>
@@ -78,6 +78,9 @@
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArcherTrister&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 <br>
+
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats) -->
+
   <!-- profile-3d-contrib 3D贡献图-->
 <!-- <img src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 <br> -->
