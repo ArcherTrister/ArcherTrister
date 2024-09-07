@@ -16,27 +16,27 @@
   <br/>
 
   <center>
-    <img height="270px" src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/coding.gif" width="42%" />
+    <img height="270px" src="https://gcore.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/coding.gif" width="42%" />
     &emsp;&emsp;
-    <img height="270px" src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/giphy.webp" width="42%" />
+    <img height="270px" src="https://gcore.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/giphy.webp" width="42%" />
   </center>
   <br/>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://gcore.jsdelivr.net/gh/ArcherTrister/ArcherTrister/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://gcore.jsdelivr.net/gh/ArcherTrister/ArcherTrister/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://gcore.jsdelivr.net/gh/ArcherTrister/ArcherTrister/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
-<img width="200%" src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/hr.gif" />
+<img width="200%" src="https://gcore.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/hr.gif" />
 
   <!-- GitHub Star link -->
 <!-- <h2 align="center">⚡&emsp;&emsp;⚡</h2> -->
 <h2 align="center">
   <a href="https://stars.github.com/profiles/ArcherTrister/">
-    <img src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/295005152-ca15be3f-d00b-438e-91f6-fb5568c1f632.png" alt="GitHub Star 2024"/></a>
+    <img src="https://gcore.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/295005152-ca15be3f-d00b-438e-91f6-fb5568c1f632.png" alt="GitHub Star 2024"/></a>
 </h2>
 <br>
 <p align=center>
@@ -82,16 +82,16 @@
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArcherTrister)](https://git.io/streak-stats) -->
 
   <!-- profile-3d-contrib 3D贡献图-->
-<!-- <img src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+<!-- <img src="https://gcore.jsdelivr.net/gh/ArcherTrister/ArcherTrister/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 <br> -->
 </p>
 
-<img width="200%" src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/hr.gif" />
+<img width="200%" src="https://gcore.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/hr.gif" />
 
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/icon.png" /></div>
+<img src="https://gcore.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/icon.png" /></div>
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
@@ -209,7 +209,7 @@
       <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat"></a>
       <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat"></a>
   </p>
-<img width="200%" src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/hr.gif" />
+<img width="200%" src="https://gcore.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/hr.gif" />
 
 <!-- # 🔭Actions
 
@@ -217,12 +217,12 @@
     <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=ArcherTrister"/>
 </div>
 <div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/github-contribution-grid-snake.svg" />
+	<img src="https://gcore.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/github-contribution-grid-snake.svg" />
 </div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArcherTrister/ArcherTrister/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArcherTrister/ArcherTrister/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArcherTrister/ArcherTrister/output/github-contribution-grid-snake.svg">
 </picture> -->
 
 ### 📊 WakaTime
@@ -230,7 +230,7 @@
 [![ArcherTrister's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ArcherTrister&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/hr.gif" />
+<img width="200%" src="https://gcore.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/hr.gif" />
 
 <div align="center" >
 
@@ -266,13 +266,13 @@ mindmap
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/hr.gif" />
+<img width="200%" src="https://gcore.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/hr.gif" />
 
 <div align="center" >
 
 <!-- Github-Stats-Terminal 终端风格信息 -->
 
-<!-- <img src="https://cdn.jsdelivr.net/gh/ArcherTrister/Github-Stats-Terminal/github_stats.svg"/><br> -->
+<!-- <img src="https://gcore.jsdelivr.net/gh/ArcherTrister/Github-Stats-Terminal/github_stats.svg"/><br> -->
 
 <!-- Quotes 名人名言 -->
 
@@ -296,50 +296,50 @@ mindmap
     <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500" alt="Wakatime"/></td>
   </tr>
   <tr>
-    <td colspan="2"><a href="https://run.sunguoqi.com"><img width="200%" src="https://cdn.jsdelivr.net/gh/ArcherTrister/running/assets/github_2023.svg" /></a><br></td>
+    <td colspan="2"><a href="https://run.sunguoqi.com"><img width="200%" src="https://gcore.jsdelivr.net/gh/ArcherTrister/running/assets/github_2023.svg" /></a><br></td>
   </tr>
 </table> -->
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/hr.gif" />
+<img width="200%" src="https://gcore.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/hr.gif" />
 
 <div align="center">
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
+<img src="https://gcore.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
 <!-- run 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/man_run.png" alt="Man Running" width="250" height="250" />
+<img src="https://gcore.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/man_run.png" alt="Man Running" width="250" height="250" />
 
 <!-- Joke 笑话 -->
 <!-- <div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div> -->
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 
-<!-- <img width="150" src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/left.png" />&emsp;
+<!-- <img width="150" src="https://gcore.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/left.png" />&emsp;
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArcherTrister&theme=dark&hide_border=true" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/right.png" /> -->
+&emsp;<img width="150" src="https://gcore.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/right.png" /> -->
 
 <!-- Spotify 音乐 -->
-<!-- <img width="150" src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/shin_chan.gif" />&emsp;&emsp;&emsp;&emsp;
+<!-- <img width="150" src="https://gcore.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/shin_chan.gif" />&emsp;&emsp;&emsp;&emsp;
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=31k53kp6hgkbovg72427dya5av44&cover_image=true&theme=default&show_offline=false&background_color=121212" />
-  &emsp;&emsp;&emsp;&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/shin_chan.gif" /> -->
+  &emsp;&emsp;&emsp;&emsp;<img width="150" src="https://gcore.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/shin_chan.gif" /> -->
 
 <!-- metrics 基础资料 -->
 
-<img width="150" src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/cxyduck.gif" />&emsp;
+<img width="150" src="https://gcore.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/cxyduck.gif" />&emsp;
 
-<!-- <img src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/github-metrics/base.svg" /> -->
+<!-- <img src="https://gcore.jsdelivr.net/gh/ArcherTrister/ArcherTrister/github-metrics/base.svg" /> -->
 
-<!-- &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/cxyduck.gif" /> -->
+<!-- &emsp;<img width="150" src="https://gcore.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/cxyduck.gif" /> -->
 
 <!-- My Blog 博客首页 -->
 
-<img width="150" src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/pig.gif" />&emsp;
+<img width="150" src="https://gcore.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/pig.gif" />&emsp;
 
-<!-- <a href="https://blog.sunguoqi.com"><img src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/github-metrics/pagespeed.screenshot.svg" /></a> -->
+<!-- <a href="https://blog.sunguoqi.com"><img src="https://gcore.jsdelivr.net/gh/ArcherTrister/ArcherTrister/github-metrics/pagespeed.screenshot.svg" /></a> -->
 
-<!-- &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/pig.gif" /> -->
+<!-- &emsp;<img width="150" src="https://gcore.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/pig.gif" /> -->
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <!-- <table align="center">
@@ -351,55 +351,55 @@ mindmap
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/hr.gif" />
+<img width="200%" src="https://gcore.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/hr.gif" />
 
 <!-- GitHub metrics 信息指标 -->
 <div align="center">
 
 <!-- just img 图片 -->
-<img width="36%" src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/githubgif.gif" />
+<img width="36%" src="https://gcore.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/githubgif.gif" />
 
 <!-- first form 第一个表格 -->
 <!-- <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/github-metrics/people.followers.svg" alt="people.followers" /></td>
+    <td><img src="https://gcore.jsdelivr.net/gh/ArcherTrister/ArcherTrister/github-metrics/people.followers.svg" alt="people.followers" /></td>
   </tr>
 </table> -->
 
 <!-- second form 第二个表格 -->
 <!-- <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/github-metrics/reactions.svg" alt="reactions" /></td>
+    <td><img src="https://gcore.jsdelivr.net/gh/ArcherTrister/ArcherTrister/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
+    <td><img src="https://gcore.jsdelivr.net/gh/ArcherTrister/ArcherTrister/github-metrics/reactions.svg" alt="reactions" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/github-metrics/achievements.compact.svg" alt="achievements.compact" /></td>
+    <td><img src="https://gcore.jsdelivr.net/gh/ArcherTrister/ArcherTrister/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
+    <td><img src="https://gcore.jsdelivr.net/gh/ArcherTrister/ArcherTrister/github-metrics/achievements.compact.svg" alt="achievements.compact" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
+    <td><img src="https://gcore.jsdelivr.net/gh/ArcherTrister/ArcherTrister/github-metrics/wakatime.svg" alt="wakatime" /></td>
+    <td><img src="https://gcore.jsdelivr.net/gh/ArcherTrister/ArcherTrister/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
+    <td><img src="https://gcore.jsdelivr.net/gh/ArcherTrister/ArcherTrister/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
+    <td><img src="https://gcore.jsdelivr.net/gh/ArcherTrister/ArcherTrister/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/github-metrics/discussions.svg" alt="discussions" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
+    <td><img src="https://gcore.jsdelivr.net/gh/ArcherTrister/ArcherTrister/github-metrics/discussions.svg" alt="discussions" /></td>
+    <td><img src="https://gcore.jsdelivr.net/gh/ArcherTrister/ArcherTrister/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/github-metrics/activity.svg" alt="activity" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/github-metrics/stars.svg" alt="stars" /></td>
+    <td><img src="https://gcore.jsdelivr.net/gh/ArcherTrister/ArcherTrister/github-metrics/activity.svg" alt="activity" /></td>
+    <td><img src="https://gcore.jsdelivr.net/gh/ArcherTrister/ArcherTrister/github-metrics/stars.svg" alt="stars" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
+    <td><img src="https://gcore.jsdelivr.net/gh/ArcherTrister/ArcherTrister/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
+    <td><img src="https://gcore.jsdelivr.net/gh/ArcherTrister/ArcherTrister/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
   </tr>
 </table> -->
 
 <!-- <img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" /> -->
 
 <!-- just img 图片 -->
-<!-- <img src="https://cdn.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/rocket.png"/> -->
+<!-- <img src="https://gcore.jsdelivr.net/gh/ArcherTrister/ArcherTrister/assets/images/rocket.png"/> -->
 </div>
